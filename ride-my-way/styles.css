@@ -1,0 +1,17 @@
+body{
+    background:#74838C;
+    color:#143340;
+}
+ul li{
+    float:left;
+    list-style:none;
+    
+}
+#homepage{
+    /* padding-left: 20px; */
+    /* padding-right: 20px; */
+    height: 40px;
+    line-height: 40px;
+    background-color: #143340;
+    color: white;
+    }
